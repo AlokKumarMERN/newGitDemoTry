@@ -1,4 +1,4 @@
 # newGitDemoTry
 this is my first git repository
 <br>
-Author - alok kumar
+Author - alok kumar gupta
